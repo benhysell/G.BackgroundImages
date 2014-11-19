@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G.BackgroundImages", "G.BackgroundImages\G.BackgroundImages.csproj", "{0024DAA7-10CB-4F05-9E42-DAFF73657665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Release|iPhone.Build.0 = Release|iPhone
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0024DAA7-10CB-4F05-9E42-DAFF73657665}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = G.BackgroundImages\G.BackgroundImages.csproj
+	EndGlobalSection
+EndGlobal
